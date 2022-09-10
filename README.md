@@ -1,7 +1,9 @@
 # Watch Netflix Downloads
 
-Netflix download files are not directly watchable in common players.
+This is a pet project of mine which I made in spare time.
+Netflix downloaded files are not directly watchable in common players.
 It is a try to convert them & watch.
+Here is an attempt to make a system to convert the Netflix downloaded file formats (.nfv and .nfa) into playable forms.
 
 
 ## Installation
